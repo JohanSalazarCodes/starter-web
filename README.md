@@ -13,4 +13,4 @@ This is a simple web project, deployment can be on any web server o even local f
 Please fork the repository and then issue Pull Request for rewiew.
 ### Copyright
 
-2022 Git.Training. 
+2022 Git.Training. All rights reserved.
